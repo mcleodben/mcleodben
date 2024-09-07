@@ -2,7 +2,6 @@ Stuff I'm currently working on.
 
 ## Enslaved by Aliens ##
 2D pixel art metroidvania platformer made in the Godot game engine.
-www.enslavedbyaliens.com
 <a href="https://enslavedbyaliens.com" target="_blank">www.enslavedbyaliens.com</a>
 
 ## Anonyverse ##
