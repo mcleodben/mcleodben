@@ -8,6 +8,8 @@ www.enslavedbyaliens.com
 Anonymouse location based social media platform. Apparently this name is "very Boomer" and I should change it. :( Also anonyverse.com is taken and for sale for £15,000.
 
 Laravel, React, Three.js Tailwind.css
+
+You can spin the planet around and click anywhere to view posts around that area.
 ![Planet](images/planet.png)
 ![Feed](images/feed.png)
 
